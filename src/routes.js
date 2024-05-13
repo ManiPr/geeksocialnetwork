@@ -1,8 +1,9 @@
-import Index from "./pages/Index"
-
+import Index from "./pages/Index/Index"
+import Register from './pages/Register/Register'
 
 const routes = [
-    { path: '/b', element: <Index /> },
+    { path: '/', element: <Index /> },
+    { path: '/register', element: <Register /> },
 ]
 
 export default routes
