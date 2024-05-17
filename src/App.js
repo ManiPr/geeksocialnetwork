@@ -14,4 +14,4 @@ function App() {
 }
 
 export default App;
-// Start
+// شروع پر قدرت کار بریم جلو ببینیم چی میشه 
